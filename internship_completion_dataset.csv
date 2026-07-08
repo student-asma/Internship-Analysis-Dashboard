@@ -1,0 +1,201 @@
+Intern_ID,Gender,Age,Department,Internship_Duration,Mentor_Interaction,Attendance(%),Assignments_Submitted,Final_Status
+1001,Female,21,UI/UX Design,1 Month,Low,62,3,Dropped
+1002,Male,20,Cybersecurity,6 Months,Low,66,20,Completed
+1003,Male,24,Machine Learning,1 Month,High,100,3,Completed
+1004,Male,19,Data Analyst,2 Months,Medium,76,4,Dropped
+1005,Female,20,Frontend Development,1 Month,High,97,3,Completed
+1006,Female,19,Cybersecurity,2 Months,Low,74,4,Completed
+1007,Male,22,Digital Marketing,2 Months,Low,73,6,Completed
+1008,Male,28,Machine Learning,1 Month,Medium,54,2,Dropped
+1009,Male,22,Data Analyst,2 Months,Low,70,5,Completed
+1010,Male,23,UI/UX Design,2 Months,High,86,3,Completed
+1011,Male,28,Backend Development,3 Months,Low,59,1,Dropped
+1012,Male,20,Machine Learning,2 Months,Low,60,6,Completed
+1013,Male,24,Data Analyst,2 Months,Low,40,5,Completed
+1014,Male,28,Data Analyst,1 Month,Low,68,3,Dropped
+1015,Male,26,Digital Marketing,6 Months,Low,62,10,Dropped
+1016,Female,24,UI/UX Design,2 Months,Low,78,4,Completed
+1017,Female,24,Backend Development,1 Month,High,100,3,Completed
+1018,Male,22,Data Analyst,1 Month,Low,53,1,Dropped
+1019,Female,27,UI/UX Design,1 Month,Medium,64,1,Dropped
+1020,Female,23,Machine Learning,3 Months,High,63,12,Dropped
+1021,Male,27,UI/UX Design,3 Months,High,100,10,Dropped
+1022,Female,21,UI/UX Design,1 Month,Medium,74,3,Completed
+1023,Male,20,Cybersecurity,3 Months,Low,58,7,Dropped
+1024,Female,24,Digital Marketing,1 Month,Medium,89,2,Completed
+1025,Female,28,Cybersecurity,2 Months,Medium,85,6,Dropped
+1026,Male,20,Backend Development,1 Month,Medium,66,0,Completed
+1027,Male,19,Digital Marketing,2 Months,Low,77,4,Dropped
+1028,Female,28,Digital Marketing,1 Month,Medium,84,1,Completed
+1029,Female,25,Digital Marketing,1 Month,Medium,65,3,Dropped
+1030,Male,26,Backend Development,3 Months,High,90,7,Dropped
+1031,Male,26,Data Analyst,6 Months,High,82,12,Dropped
+1032,Female,21,Digital Marketing,6 Months,High,87,9,Dropped
+1033,Female,25,Cybersecurity,3 Months,Medium,82,5,Dropped
+1034,Male,21,UI/UX Design,2 Months,Medium,86,4,Completed
+1035,Female,21,Cybersecurity,1 Month,Medium,72,2,Completed
+1036,Female,25,Backend Development,1 Month,Low,85,2,Completed
+1037,Female,22,Frontend Development,1 Month,High,99,1,Dropped
+1038,Male,21,Frontend Development,6 Months,Low,81,9,Dropped
+1039,Male,19,UI/UX Design,2 Months,Low,56,2,Completed
+1040,Male,23,Backend Development,6 Months,High,88,12,Completed
+1041,Male,25,Machine Learning,1 Month,Medium,100,4,Completed
+1042,Female,21,Digital Marketing,3 Months,Low,62,5,Dropped
+1043,Male,26,Cybersecurity,2 Months,Low,53,3,Dropped
+1044,Female,25,UI/UX Design,1 Month,Medium,86,2,Completed
+1045,Male,26,Digital Marketing,3 Months,Medium,92,9,Completed
+1046,Male,22,Data Analyst,3 Months,High,91,10,Completed
+1047,Female,21,Data Analyst,3 Months,Medium,87,10,Completed
+1048,Male,20,Data Analyst,6 Months,Low,65,12,Dropped
+1049,Male,27,Data Analyst,1 Month,Medium,90,3,Completed
+1050,Male,20,Cybersecurity,1 Month,High,95,2,Completed
+1051,Female,21,Digital Marketing,3 Months,Medium,54,3,Completed
+1052,Female,28,Backend Development,3 Months,Medium,82,10,Completed
+1053,Male,20,Cybersecurity,3 Months,Medium,80,7,Dropped
+1054,Female,26,UI/UX Design,1 Month,Medium,100,3,Completed
+1055,Male,21,Data Analyst,3 Months,Low,75,5,Dropped
+1056,Female,23,UI/UX Design,1 Month,Low,52,3,Dropped
+1057,Male,27,Data Analyst,2 Months,High,99,6,Completed
+1058,Female,21,Digital Marketing,2 Months,Low,64,4,Dropped
+1059,Male,27,Backend Development,2 Months,Low,68,5,Completed
+1060,Male,23,Machine Learning,6 Months,Medium,70,18,Completed
+1061,Male,24,Cybersecurity,3 Months,High,97,8,Completed
+1062,Female,22,Machine Learning,1 Month,High,89,3,Completed
+1063,Male,25,Digital Marketing,1 Month,High,85,3,Dropped
+1064,Male,27,UI/UX Design,2 Months,Medium,91,3,Completed
+1065,Male,19,Cybersecurity,1 Month,Medium,78,2,Completed
+1066,Female,23,Frontend Development,1 Month,Low,64,2,Dropped
+1067,Female,26,Cybersecurity,1 Month,Low,74,0,Dropped
+1068,Female,24,Data Analyst,3 Months,High,75,12,Dropped
+1069,Male,22,UI/UX Design,3 Months,High,93,10,Completed
+1070,Female,22,UI/UX Design,1 Month,Low,78,0,Dropped
+1071,Male,26,Digital Marketing,1 Month,Medium,66,4,Dropped
+1072,Male,20,UI/UX Design,1 Month,Low,56,2,Completed
+1073,Male,26,Frontend Development,6 Months,Medium,84,11,Completed
+1074,Female,20,Cybersecurity,1 Month,Low,56,2,Dropped
+1075,Female,26,UI/UX Design,6 Months,Low,87,9,Dropped
+1076,Male,21,Frontend Development,1 Month,High,91,2,Completed
+1077,Male,21,Machine Learning,3 Months,Medium,78,6,Dropped
+1078,Male,28,Cybersecurity,3 Months,Low,73,4,Dropped
+1079,Female,24,Frontend Development,1 Month,Low,74,2,Dropped
+1080,Male,19,Data Analyst,6 Months,Low,57,6,Completed
+1081,Male,27,Digital Marketing,2 Months,High,73,4,Completed
+1082,Female,22,Cybersecurity,1 Month,High,89,3,Completed
+1083,Male,23,Frontend Development,2 Months,Medium,91,7,Completed
+1084,Male,28,Backend Development,2 Months,Medium,77,5,Dropped
+1085,Female,21,Data Analyst,3 Months,Low,66,11,Dropped
+1086,Female,26,Digital Marketing,2 Months,Low,55,5,Dropped
+1087,Female,27,Frontend Development,2 Months,Low,62,1,Dropped
+1088,Male,27,Machine Learning,3 Months,High,68,8,Completed
+1089,Female,21,Machine Learning,6 Months,High,86,16,Completed
+1090,Male,21,Frontend Development,2 Months,Medium,77,3,Dropped
+1091,Male,27,Data Analyst,3 Months,Medium,80,5,Dropped
+1092,Female,20,Machine Learning,6 Months,High,87,16,Completed
+1093,Male,22,Backend Development,2 Months,High,91,7,Completed
+1094,Male,27,UI/UX Design,2 Months,Low,61,3,Dropped
+1095,Male,20,UI/UX Design,1 Month,Medium,63,3,Dropped
+1096,Male,23,UI/UX Design,6 Months,Low,61,4,Dropped
+1097,Female,27,Frontend Development,2 Months,Low,58,2,Dropped
+1098,Female,27,Frontend Development,3 Months,Medium,70,11,Dropped
+1099,Male,25,Data Analyst,2 Months,Medium,55,6,Dropped
+1100,Female,24,Data Analyst,6 Months,Low,71,12,Completed
+1101,Male,25,Data Analyst,2 Months,High,82,5,Completed
+1102,Female,20,Cybersecurity,1 Month,High,97,2,Completed
+1103,Female,21,Backend Development,3 Months,High,88,9,Completed
+1104,Female,22,Digital Marketing,6 Months,High,70,19,Completed
+1105,Female,26,Frontend Development,1 Month,Low,82,2,Dropped
+1106,Male,21,Digital Marketing,3 Months,Medium,80,5,Dropped
+1107,Female,24,UI/UX Design,1 Month,High,100,3,Completed
+1108,Female,24,Data Analyst,6 Months,Low,37,2,Dropped
+1109,Female,19,Backend Development,1 Month,Low,63,0,Dropped
+1110,Female,26,Digital Marketing,1 Month,High,79,2,Dropped
+1111,Female,24,Machine Learning,6 Months,Low,72,10,Dropped
+1112,Female,27,Data Analyst,2 Months,High,92,4,Completed
+1113,Male,20,Data Analyst,1 Month,Medium,100,3,Completed
+1114,Female,19,Cybersecurity,6 Months,High,100,11,Completed
+1115,Female,21,Cybersecurity,1 Month,Medium,62,3,Completed
+1116,Female,25,Frontend Development,2 Months,Low,57,5,Dropped
+1117,Female,24,Data Analyst,3 Months,Medium,85,8,Completed
+1118,Male,21,UI/UX Design,1 Month,High,86,2,Completed
+1119,Female,19,Digital Marketing,6 Months,High,79,14,Completed
+1120,Female,20,Machine Learning,1 Month,High,89,3,Completed
+1121,Male,23,Cybersecurity,1 Month,High,81,3,Completed
+1122,Female,19,Backend Development,2 Months,Low,65,2,Dropped
+1123,Female,23,Machine Learning,1 Month,High,93,3,Completed
+1124,Male,27,Digital Marketing,6 Months,High,78,13,Dropped
+1125,Male,21,Backend Development,3 Months,High,94,9,Completed
+1126,Male,22,Backend Development,2 Months,Low,52,5,Dropped
+1127,Female,27,Cybersecurity,3 Months,High,88,11,Completed
+1128,Female,26,Machine Learning,1 Month,Low,77,1,Dropped
+1129,Male,23,Backend Development,1 Month,High,100,3,Completed
+1130,Female,19,Data Analyst,2 Months,High,100,6,Completed
+1131,Male,27,UI/UX Design,1 Month,High,67,3,Completed
+1132,Female,20,Digital Marketing,3 Months,Low,60,6,Dropped
+1133,Female,26,Machine Learning,3 Months,Medium,86,11,Dropped
+1134,Female,22,Frontend Development,2 Months,Medium,80,4,Completed
+1135,Male,21,UI/UX Design,3 Months,Medium,68,8,Dropped
+1136,Male,21,Data Analyst,3 Months,High,95,10,Completed
+1137,Female,25,Frontend Development,1 Month,High,83,2,Completed
+1138,Male,25,Cybersecurity,3 Months,Low,58,3,Dropped
+1139,Female,28,Frontend Development,2 Months,Low,62,1,Dropped
+1140,Female,19,UI/UX Design,1 Month,High,90,3,Completed
+1141,Male,23,UI/UX Design,3 Months,High,88,7,Completed
+1142,Female,24,Backend Development,1 Month,Low,69,2,Completed
+1143,Female,22,Data Analyst,1 Month,Medium,79,2,Completed
+1144,Male,24,Frontend Development,2 Months,High,91,6,Completed
+1145,Female,25,Data Analyst,1 Month,Medium,59,1,Dropped
+1146,Female,27,Digital Marketing,2 Months,High,81,7,Completed
+1147,Male,27,Cybersecurity,2 Months,High,93,4,Completed
+1148,Male,23,Cybersecurity,6 Months,High,84,17,Completed
+1149,Male,25,Machine Learning,3 Months,High,87,9,Completed
+1150,Female,19,Backend Development,2 Months,Medium,84,6,Dropped
+1151,Male,20,Machine Learning,3 Months,Low,63,7,Completed
+1152,Male,28,UI/UX Design,1 Month,Medium,83,4,Dropped
+1153,Female,21,Backend Development,2 Months,Low,62,2,Completed
+1154,Male,19,Cybersecurity,1 Month,Low,60,2,Dropped
+1155,Female,27,Frontend Development,2 Months,Low,74,3,Completed
+1156,Male,28,Cybersecurity,1 Month,Low,62,2,Dropped
+1157,Male,20,Data Analyst,3 Months,High,83,6,Completed
+1158,Male,24,Data Analyst,2 Months,Medium,75,3,Dropped
+1159,Female,27,Data Analyst,1 Month,Low,59,2,Dropped
+1160,Male,27,Digital Marketing,2 Months,High,100,7,Completed
+1161,Female,23,Data Analyst,3 Months,Medium,79,8,Completed
+1162,Male,27,Machine Learning,3 Months,High,72,9,Completed
+1163,Male,26,Backend Development,3 Months,High,83,9,Completed
+1164,Female,22,Digital Marketing,1 Month,High,100,1,Dropped
+1165,Male,26,UI/UX Design,1 Month,Medium,78,2,Dropped
+1166,Male,26,Digital Marketing,3 Months,Medium,88,3,Dropped
+1167,Male,28,Digital Marketing,3 Months,Low,76,6,Completed
+1168,Male,20,Machine Learning,1 Month,High,100,2,Dropped
+1169,Female,23,Digital Marketing,2 Months,Low,58,5,Dropped
+1170,Female,28,Machine Learning,2 Months,High,76,5,Completed
+1171,Male,26,Data Analyst,3 Months,Medium,91,9,Completed
+1172,Female,20,Digital Marketing,3 Months,High,99,9,Completed
+1173,Female,23,Digital Marketing,3 Months,Low,64,7,Completed
+1174,Female,26,UI/UX Design,2 Months,Medium,62,4,Completed
+1175,Male,27,Frontend Development,1 Month,Medium,85,3,Completed
+1176,Male,26,Data Analyst,3 Months,Medium,85,10,Completed
+1177,Female,20,Cybersecurity,1 Month,Low,73,3,Completed
+1178,Female,23,UI/UX Design,1 Month,High,88,4,Completed
+1179,Male,20,Machine Learning,1 Month,High,78,3,Completed
+1180,Male,27,Backend Development,3 Months,Medium,87,7,Dropped
+1181,Male,28,Cybersecurity,1 Month,Low,77,2,Completed
+1182,Female,20,Digital Marketing,2 Months,Medium,77,5,Dropped
+1183,Male,26,UI/UX Design,3 Months,Medium,100,7,Completed
+1184,Male,21,Data Analyst,2 Months,Medium,70,6,Completed
+1185,Female,25,Backend Development,1 Month,Low,61,1,Dropped
+1186,Male,25,Backend Development,2 Months,Medium,58,5,Completed
+1187,Female,20,Cybersecurity,2 Months,Medium,70,6,Completed
+1188,Male,24,Cybersecurity,2 Months,Medium,90,2,Completed
+1189,Female,20,Frontend Development,2 Months,Low,55,4,Dropped
+1190,Male,23,Backend Development,6 Months,Medium,63,13,Completed
+1191,Male,25,UI/UX Design,2 Months,Low,64,6,Dropped
+1192,Male,24,UI/UX Design,3 Months,Medium,57,6,Dropped
+1193,Male,23,Data Analyst,1 Month,High,85,2,Completed
+1194,Female,21,Frontend Development,1 Month,Medium,62,2,Dropped
+1195,Female,27,Backend Development,1 Month,High,79,2,Dropped
+1196,Female,25,Data Analyst,3 Months,Low,67,5,Dropped
+1197,Female,27,Machine Learning,3 Months,High,100,8,Completed
+1198,Male,19,Digital Marketing,1 Month,Medium,84,1,Dropped
+1199,Female,28,Cybersecurity,3 Months,High,80,10,Completed
+1200,Female,26,Data Analyst,3 Months,Low,50,5,Dropped
